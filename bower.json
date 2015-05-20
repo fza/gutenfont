@@ -1,0 +1,19 @@
+{
+  "name": "woff2otf",
+  "version": "0.1.0",
+  "main": "dist/woff2otf.min.js",
+  "keywords": [
+    "woff",
+    "otf",
+    "ttf",
+    "font",
+    "type",
+    "convert"
+  ],
+  "ignore": [
+    ".eslintrc"
+  ],
+  "dependencies": {
+    "pako": "~0.2.6"
+  }
+}
