@@ -26,6 +26,7 @@ var inflate = require('pako/lib/inflate').inflate;
 
 var UINT_16 = 1;
 var UINT_32 = 2;
+var WOFF1_SIGNATURE = 0x774f4646; // wOFF
 
 function getPadding(offset) {
   return ((offset % 4) !== 0) ? 4 - (offset % 4) : 0;
@@ -44,6 +45,10 @@ Converter.prototype.convert = function (bufIn) {
   self.offsetIn = 0;
 
   var woffHeader = self._readWOFFHeader();
+  if (woffHeader.signature !== WOFF1_SIGNATURE) {
+    throw new Error('Cannot convert non-WOFF file');
+  }
+
   var entrySelector = self._calcEntrySelector(woffHeader);
   var searchRange = Math.pow(2, entrySelector) * 16;
   var rangeShift = (woffHeader.numTables * 16) - searchRange;
@@ -173,8 +178,10 @@ Converter.prototype._unpack = function (format) {
   return val;
 };
 
+var singleton;
+
 module.exports = function (buf) {
-  return (new Converter()).convert(buf);
+  return (singleton || (singleton = new Converter())).convert(buf);
 };
 
 return module.exports;

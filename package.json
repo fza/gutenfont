@@ -1,6 +1,6 @@
 {
   "name": "woff2otf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "WOFF to OpenType converter in pure JavaScript",
   "homepage": "https://git.fapprik.com/fza/woff2otf",
   "author": {
