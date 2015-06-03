@@ -34,8 +34,8 @@ function getPadding(offset) {
 
 function Converter() {
   var self = this;
-  self.unpack16 = self._unpack.bind(self, UINT_16);
-  self.unpack32 = self._unpack.bind(self, UINT_32);
+  self.unpack16 = self._read.bind(self, UINT_16);
+  self.unpack32 = self._read.bind(self, UINT_32);
 }
 
 Converter.prototype.convert = function (bufIn) {
@@ -162,7 +162,7 @@ Converter.prototype._write = function (val, format) {
   }
 };
 
-Converter.prototype._unpack = function (format) {
+Converter.prototype._read = function (format) {
   var self = this;
   var dataViewIn = self.dataViewIn;
   var offsetIn = self.offsetIn;

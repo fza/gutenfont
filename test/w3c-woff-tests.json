@@ -1,0 +1,1061 @@
+{
+  "blocks-extraneous-data-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-extraneous-data-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-extraneous-data-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-extraneous-data-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-extraneous-data-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-extraneous-data-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-extraneous-data-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-metadata-absent-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-metadata-absent-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-metadata-padding-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-ordering-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-ordering-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-ordering-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-ordering-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-overlap-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-overlap-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-overlap-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-private-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-private-absent-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "blocks-private-absent-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-4-byte-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-4-byte-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-4-byte-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-ascending-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-compLength-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-extraneous-data-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-origCheckSum-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-origCheckSum-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-origLength-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-origLength-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-overlaps-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-overlaps-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-overlaps-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-overlaps-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "directory-overlaps-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-flavor-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-flavor-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-length-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-length-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-numTables-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-reserved-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-signature-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-totalSfntSize-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-totalSfntSize-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "header-totalSfntSize-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-compression-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-encoding-001.woff": {
+    "valid": true
+  },
+  "metadata-encoding-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-encoding-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-encoding-004.woff": {
+    "valid": true
+  },
+  "metadata-encoding-005.woff": {
+    "valid": true
+  },
+  "metadata-encoding-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-metaOrigLength-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-metaOrigLength-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-padding-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-004.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-008.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-011.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-012.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-013.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-014.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-015.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-016.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-017.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-018.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-019.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-020.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-021.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-022.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-023.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-024.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-025.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-026.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-027.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-028.woff": {
+    "valid": true
+  },
+  "metadata-schema-copyright-029.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-copyright-030.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credit-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-006.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credit-008.woff": {
+    "valid": true
+  },
+  "metadata-schema-credit-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credit-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credit-011.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credits-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-credits-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-credits-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credits-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credits-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credits-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-credits-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-004.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-006.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-007.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-008.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-011.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-012.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-013.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-014.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-015.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-016.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-017.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-018.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-019.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-020.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-021.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-022.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-023.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-024.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-025.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-026.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-027.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-028.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-029.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-030.woff": {
+    "valid": true
+  },
+  "metadata-schema-description-031.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-description-032.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-004.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-006.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-007.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-008.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-011.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-012.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-013.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-014.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-015.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-016.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-017.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-018.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-019.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-020.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-021.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-022.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-023.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-024.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-025.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-026.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-027.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-028.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-029.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-030.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-031.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-032.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-033.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-034.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-035.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-036.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-037.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-038.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-039.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-040.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-041.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-042.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-043.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-044.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-045.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-046.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-047.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-048.woff": {
+    "valid": true
+  },
+  "metadata-schema-extension-049.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-extension-050.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-004.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-006.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-007.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-008.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-010.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-011.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-012.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-013.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-014.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-015.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-016.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-017.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-018.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-019.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-020.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-021.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-022.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-023.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-024.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-025.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-026.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-027.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-028.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-029.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-030.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-031.woff": {
+    "valid": true
+  },
+  "metadata-schema-license-032.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-license-033.woff": {
+    "valid": true
+  },
+  "metadata-schema-licensee-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-licensee-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-licensee-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-licensee-004.woff": {
+    "valid": true
+  },
+  "metadata-schema-licensee-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-licensee-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-licensee-007.woff": {
+    "valid": true
+  },
+  "metadata-schema-licensee-008.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-licensee-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-licensee-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-metadata-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-metadata-002.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-metadata-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-metadata-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-metadata-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-metadata-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-004.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-005.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-008.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-009.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-011.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-012.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-013.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-014.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-015.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-016.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-017.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-018.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-019.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-020.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-021.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-022.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-023.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-024.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-025.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-026.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-027.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-028.woff": {
+    "valid": true
+  },
+  "metadata-schema-trademark-029.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-trademark-030.woff": {
+    "valid": true
+  },
+  "metadata-schema-uniqueid-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-uniqueid-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-uniqueid-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-uniqueid-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-uniqueid-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-uniqueid-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-uniqueid-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-vendor-001.woff": {
+    "valid": true
+  },
+  "metadata-schema-vendor-002.woff": {
+    "valid": true
+  },
+  "metadata-schema-vendor-003.woff": {
+    "valid": true
+  },
+  "metadata-schema-vendor-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-vendor-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-vendor-006.woff": {
+    "valid": true
+  },
+  "metadata-schema-vendor-007.woff": {
+    "valid": true
+  },
+  "metadata-schema-vendor-008.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-vendor-009.woff": {
+    "valid": true
+  },
+  "metadata-schema-vendor-010.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-vendor-011.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-schema-vendor-012.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-002.woff": {
+    "valid": false,
+    "skip": true,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-003.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-004.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-005.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-006.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "metadata-well-formed-007.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "tabledata-compression-001.woff": {
+    "valid": true
+  },
+  "tabledata-compression-002.woff": {
+    "valid": true
+  },
+  "tabledata-compression-003.woff": {
+    "valid": true
+  },
+  "tabledata-compression-004.woff": {
+    "valid": true
+  },
+  "tabledata-zlib-001.woff": {
+    "valid": false,
+    "errorMessage": ""
+  },
+  "valid-001.woff": {
+    "valid": true
+  },
+  "valid-002.woff": {
+    "valid": true
+  },
+  "valid-003.woff": {
+    "valid": true
+  },
+  "valid-004.woff": {
+    "valid": true
+  },
+  "valid-005.woff": {
+    "valid": true
+  },
+  "valid-006.woff": {
+    "valid": true
+  },
+  "valid-007.woff": {
+    "valid": true
+  },
+  "valid-008.woff": {
+    "valid": true
+  }
+}
